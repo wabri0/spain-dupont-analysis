@@ -1,0 +1,13 @@
+# Ignore everything by default
+/*
+
+# ...except the essentials
+!/.gitignore
+!/README.md
+!/requirements.txt
+
+!/notebooks/
+/notebooks/*
+!/notebooks/dupont_analysis.ipynb
+
+!/figures/
